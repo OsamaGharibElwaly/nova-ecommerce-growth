@@ -1,0 +1,5 @@
+﻿"campaign_id","campaign_name","platform","objective","spend","impressions","clicks","attributed_orders","attributed_revenue"
+"M001","Meta Prospecting","Meta","Purchase","16000","520000","7800","115","92000"
+"M002","TikTok Discovery","TikTok","Traffic","10000","610000","9150","65","52000"
+"M003","Google Search","Google","Purchase","8000","180000","7200","100","85000"
+"M004","Retargeting","Meta","Retargeting","6000","150000","6000","80","64000"

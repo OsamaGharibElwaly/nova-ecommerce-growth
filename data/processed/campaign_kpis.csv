@@ -1,0 +1,5 @@
+campaign_id,campaign_name,platform,spend_egp,impressions,clicks,ctr_pct,cpc_egp,attributed_orders,cpa_egp,attributed_revenue_egp,roas
+M001,Meta Prospecting,Meta,16000.0,520000,7800,1.5,2.05,115,139.13,92000.0,5.75
+M002,TikTok Discovery,TikTok,10000.0,610000,9150,1.5,1.09,65,153.85,52000.0,5.2
+M003,Google Search,Google,8000.0,180000,7200,4.0,1.11,100,80.0,85000.0,10.62
+M004,Retargeting,Meta,6000.0,150000,6000,4.0,1.0,80,75.0,64000.0,10.67

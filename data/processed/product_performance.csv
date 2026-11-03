@@ -1,0 +1,9 @@
+product_id,product_name,units_sold,net_revenue_egp,gross_profit_egp
+P004,Urban Sneakers,182,206220.0,69720.0
+P003,Straight Jeans,169,151002.5,58052.5
+P002,Everyday Hoodie,133,106972.5,44462.5
+P007,Relaxed Shirt,151,100100.0,45740.0
+P005,Daily Backpack,121,69180.0,32880.0
+P001,Classic T-Shirt,116,49522.5,24002.5
+P008,Canvas Tote,152,36000.0,21560.0
+P006,Baseball Cap,108,30645.0,16605.0

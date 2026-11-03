@@ -1,0 +1,24 @@
+{
+  "data_type": "synthetic",
+  "completed_orders": 560,
+  "net_revenue_egp": 749642.5,
+  "average_order_value_egp": 1338.65,
+  "estimated_product_cost_egp": 436620.0,
+  "gross_profit_egp": 313022.5,
+  "gross_margin_pct": 41.76,
+  "campaign_spend_egp": 40000.0,
+  "campaign_attributed_revenue_egp": 293000.0,
+  "campaign_attributed_orders": 360,
+  "blended_campaign_roas": 7.33,
+  "funnel_sessions": 94500,
+  "funnel_purchases": 1180,
+  "session_to_purchase_rate_pct": 1.25,
+  "simplified_cart_abandonment_pct": 84.97,
+  "customer_count": 250,
+  "top_product_by_revenue": "Urban Sneakers",
+  "notes": [
+    "Synthetic demonstration data only.",
+    "Campaign attribution is modeled separately from order revenue.",
+    "Gross profit excludes operating costs, shipping, payment fees, and marketing."
+  ]
+}
